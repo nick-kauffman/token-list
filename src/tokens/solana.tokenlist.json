@@ -59,11 +59,11 @@
   "tokens": [
     {
       "chainId": 101,
-      "address": "BSA5MfNRWc1CTJE1FD5ZErkNNLLWf9pqDyS3rCEYV1Re",
-      "symbol": "UWT",
-      "name": "Solana Underworld Token",
+      "address": "Gqm9j2kK8vG7fwMGmt1f3khSb77tcwUPFs3pbcFFh8Wn",
+      "symbol": "WOLF",
+      "name": "The Wolf NFT",
       "decimals": 0,
-      "logoURI": "https://solsnatchers.com/images/head2.png",
+      "logoURI": "https://ibb.co/kS8Jys2",
       "tags": [
         "utility-token"
       ],
