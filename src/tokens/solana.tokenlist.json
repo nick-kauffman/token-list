@@ -59,17 +59,17 @@
   "tokens": [
     {
       "chainId": 101,
-      "address": "Gqm9j2kK8vG7fwMGmt1f3khSb77tcwUPFs3pbcFFh8Wn",
-      "symbol": "WOLF",
-      "name": "THE WOLF NFT",
+      "address": "BSA5MfNRWc1CTJE1FD5ZErkNNLLWf9pqDyS3rCEYV1Re",
+      "symbol": "UWT",
+      "name": "Solana Underworld Token",
       "decimals": 0,
-      "logoURI": "https://ibb.co/kS8Jys2",
+      "logoURI": "https://solsnatchers.com/images/head2.png",
       "tags": [
         "utility-token"
       ],
       "extensions": {
-        "website": "",
-        "twitter": ""
+        "website": "https://solsnatchers.com/",
+        "twitter": "https://twitter.com/SolSnatchersNFT"
       }
     },
     {
